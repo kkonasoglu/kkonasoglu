@@ -14,6 +14,6 @@ Yazılım geliştirme üzerine çalışıyorum ve kendimi geliştiriyorum.
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kkonasoglu&show_icons=true&theme=dark" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkonasoglu&layout=compact&theme=dark" height="180" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kkonasoglushow_icons=truetheme=dark" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkonasoglulayout=compacttheme=dark" height="180" alt="Top Langs" />
 </div>
