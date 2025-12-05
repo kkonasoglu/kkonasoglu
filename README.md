@@ -18,3 +18,9 @@ Yazılım geliştirme üzerine çalışıyorum ve kendimi geliştiriyorum.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kkonasoglu&show_icons=true&theme=dark&v=1)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkonasoglu&layout=compact&theme=dark&v=1)
+
+### 📊 İstatistiklerim
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kkonasoglu&theme=dark)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kkonasoglu&layout=compact&theme=dark)
