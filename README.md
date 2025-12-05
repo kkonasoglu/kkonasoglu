@@ -13,8 +13,6 @@ Yazılım geliştirme üzerine çalışıyorum ve kendimi geliştiriyorum.
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kkonasoglu&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkonasoglu&layout=compact&theme=dark)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kkonasoglu&show_icons=true&theme=dark" height="180" alt="GitHub Stats" />
