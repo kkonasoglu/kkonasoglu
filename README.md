@@ -14,13 +14,8 @@ Yazılım geliştirme üzerine çalışıyorum ve kendimi geliştiriyorum.
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 ---
-### 📊 İstatistiklerim
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kkonasoglu&show_icons=true&theme=dark&v=1)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkonasoglu&layout=compact&theme=dark&v=1)
 
 ### 📊 İstatistiklerim
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kkonasoglu&theme=dark)](https://git.io/streak-stats)
-
 ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kkonasoglu&layout=compact&theme=dark)
