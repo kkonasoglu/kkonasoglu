@@ -16,3 +16,8 @@ Yazılım geliştirme üzerine çalışıyorum ve kendimi geliştiriyorum.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kkonasoglu&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkonasoglu&layout=compact&theme=dark)
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kkonasoglu&show_icons=true&theme=dark" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkonasoglu&layout=compact&theme=dark" height="180" alt="Top Langs" />
+</div>
+
