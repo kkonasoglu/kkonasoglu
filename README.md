@@ -2,11 +2,11 @@
  
   # 👾 Merhaba, Ben Kürşat!
   
-  ### 🚀 Game Developer | Unity & C# Enthusiast | OMÜ Student | Pixel Art Lover
+  ### 🚀 Game Developer | Unity & C# Enthusiast | Pixel Art Lover
 
   <br/>
 
-  <a href="mailto:kursatkonasoglu@gmail.com">
+  <a href="mailto:kursatkonasoglu0@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/kkonasoglu">
@@ -18,12 +18,12 @@
 ---
 
 ### 👨‍💻 Hakkımda
-Samsun **Ondokuz Mayıs Üniversitesi**'nde öğrenciyim. Yazılım dünyasında özellikle **Oyun Geliştirme** ve **Nesne Yönelimli Programlama (OOP)** üzerine yoğunlaşıyorum. Tarih ve strateji oyunlarına (özellikle HOI4) olan ilgimi, teknik becerilerimle birleştirip kendi projelerimi yaratmayı hedefliyorum.
+Samsun **Ondokuz Mayıs Üniversitesi**'nde öğrenciyim. Yazılım dünyasında özellikle **Oyun Geliştirme** ve **Nesne Yönelimli Programlama (OOP)** üzerine yoğunlaşıyorum. Bir çok oyun türünü oynamış biri olarak  , teknik becerilerimle birleştirip kendi projelerimi yaratmayı hedefliyorum.
 
-- 🔭 Şu an **[GRAVENARK]** ve **Sanal Bebek** projeleri üzerinde çalışıyorum.
+- 🔭 Şu an **[GRAVENARK]** projelesi üzerinde çalışıyorum.
 - 🌱 **Unity, C# ve Pixel Art Tasarım** yeteneklerimi geliştiriyorum.
 - 🎨 **Retro/Pixel Art** temalı bir portföy web sitesi tasarlıyorum.
-- ⚡ **Hobilerim:** Strateji oyunları, modlama ve oyun mekanikleri analizi.
+- ⚡ **Hobilerim:** Bir çok farklı türde oyun oynamak (HOI4,stardew Valley, Hollow Kngiht, witcher3 vb.),  oyun mekanikleri analizi.
 
 ---
 
