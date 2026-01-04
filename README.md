@@ -2,9 +2,7 @@
  
   # 👾 Merhaba, Ben Kürşat!
   
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=239120&center=true&vCenter=true&width=435&lines=Game+Developer;Unity+%26+C%23+Enthusiast;OMU+Student;Pixel+Art+Lover" alt="Typing SVG" />
-  </a>
+  ### 🚀 Game Developer | Unity & C# Enthusiast | OMÜ Student | Pixel Art Lover
 
   <br/>
 
@@ -19,13 +17,13 @@
 
 ---
 
-### 🚀 Hakkımda
+### 👨‍💻 Hakkımda
 Samsun **Ondokuz Mayıs Üniversitesi**'nde öğrenciyim. Yazılım dünyasında özellikle **Oyun Geliştirme** ve **Nesne Yönelimli Programlama (OOP)** üzerine yoğunlaşıyorum. Tarih ve strateji oyunlarına (özellikle HOI4) olan ilgimi, teknik becerilerimle birleştirip kendi projelerimi yaratmayı hedefliyorum.
 
 - 🔭 Şu an **[GRAVENARK]** ve **Sanal Bebek** projeleri üzerinde çalışıyorum.
 - 🌱 **Unity, C# ve Pixel Art Tasarım** yeteneklerimi geliştiriyorum.
 - 🎨 **Retro/Pixel Art** temalı bir portföy web sitesi tasarlıyorum.
-- ⚡ **Hobilerim:** Strateji oyunları, modlama ve sinema (Sürgün: Enver Onat projesi).
+- ⚡ **Hobilerim:** Strateji oyunları, modlama ve oyun mekanikleri analizi.
 
 ---
 
@@ -34,13 +32,13 @@ Samsun **Ondokuz Mayıs Üniversitesi**'nde öğrenciyim. Yazılım dünyasında
 <div align="center">
 
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
   <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
   <br/>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 
 </div>
 
