@@ -1,4 +1,4 @@
-<h1 align="center"> Selamlar! 👋 Ben Kürşat Konaşoğlu </h1>
+<h1 align="center"> Hello! 👋 I'm Kürşat Konaşoğlu </h1>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -20,18 +20,19 @@
 
 ---
 
-Samsun'dan sevgiler! Ondokuz Mayıs Üniversitesi'nde Bilgisayar Programcılığı okuyan tutkulu bir geliştiriciyim. Kendi oyun dünyalarımı inşa etmeyi, piksellere hayat vermeyi ve web teknolojilerinde yeni şeyler üretmeyi seviyorum. Yaptığım her işte en temiz ve başarılı sonuçları almak için canımı dişime takarak çalışıyorum.
+Greetings from Samsun! I'm a passionate developer studying Computer Programming at Ondokuz Mayıs University. I love building my own game worlds, bringing pixels to life, and creating new things with web technologies. I work relentlessly to achieve the cleanest and most successful results in everything I do.
 
-Şu sıralar **GravenAbyss** adını verdiğim kendi bağımsız oyun şirketimi kurma serüvenindeyim. (Maskotumuz Panpaw 🐼 da arkada bambu yiyerek bana destek oluyor!)
+Currently, I'm on a journey to build my own indie game company called **GravenAbyss**. (Our mascot Panpaw 🐼 is supporting me in the background by eating bamboo!)
 
-### 👨‍💻 Neler Yapıyorum?
+### 👨‍💻 What I Do
 
-* 🔭 Hayalimdeki **2D platform oyunu** üzerinde çalışıyorum (Unity & C#).
-* 🎨 Oyunlarımın görselleri için grafik tabletimle **Aseprite** üzerinden karakterler ve animasyonlar tasarlıyorum.
-* 💻 Web tarafında HTML, CSS ve JavaScript ile projeler geliştiriyorum.
-* 🛠️ Geliştirme süreçlerimi **Windows** üzerinde **VS Code** kullanarak yürütüyorum.
+* 🔭 I'm currently working on my dream **2D platformer game** (Unity & C#).
+* 🎨 I design pixel art characters and animations for my games using my graphics tablet and **Aseprite**.
+* 💻 On the web development side, I build projects using HTML, CSS, JavaScript, and PHP.
+* 🛠️ I run my development processes on **Windows** using **VS Code**.
 
-### 🛠️ Teknolojiler & Araçlar
+### 🛠️ Technologies & Tools
+
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -39,7 +40,7 @@ Samsun'dan sevgiler! Ondokuz Mayıs Üniversitesi'nde Bilgisayar Programcılığ
   </a>
 </p>
 
-### 📊 GitHub İstatistiklerim
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kkonasoglu&show_icons=true&theme=tokyonight" alt="GitHub İstatistikleri" />
@@ -52,5 +53,5 @@ Samsun'dan sevgiler! Ondokuz Mayıs Üniversitesi'nde Bilgisayar Programcılığ
 
 ---
 <div align="center">
-  <em>"Çalıştığı alanda en iyisi olmak için durmadan üreten bir Türk genci."</em>
+  <em>"A Turkish youth constantly producing to be the best in their field."</em>
 </div>
