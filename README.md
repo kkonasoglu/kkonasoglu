@@ -1,59 +1,52 @@
+<h1 align="center"> Selamlar! 👋 Ben Kürşat Konaşoğlu </h1>
+
 <div align="center">
- 
-  # 👾 Merhaba, Ben Kürşat!
-  
-  ### 🚀 Game Developer | Unity & C# Enthusiast | Pixel Art Lover
-
-  <br/>
-
-  <a href="mailto:kursatkonasoglu0@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Bilgisayar+Programc%C4%B1l%C4%B1%C4%9F%C4%B1+%C3%96%C4%9Frencisi;Ba%C4%9F%C4%B1ms%C4%B1z+Oyun+Geli%C5%9Ftirici;Web+Geli%C5%9Ftirici;GravenAbyss+Kurucusu" alt="Typing SVG" />
   </a>
-  <a href="https://github.com/kkonasoglu">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</div>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/SENIN_LINKEDIN_KULLANICI_ADIN/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
-</div>
-
----
-
-### 👨‍💻 Hakkımda
-Samsun **Ondokuz Mayıs Üniversitesi**'nde öğrenciyim. Yazılım dünyasında özellikle **Oyun Geliştirme** ve **Nesne Yönelimli Programlama (OOP)** üzerine yoğunlaşıyorum. Bir çok oyun türünü oynamış biri olarak  , teknik becerilerimle birleştirip kendi projelerimi yaratmayı hedefliyorum.
-
-- 🔭 Şu an **[GRAVENARK]** projelesi üzerinde çalışıyorum.
-- 🌱 **Unity, C# ve Pixel Art Tasarım** yeteneklerimi geliştiriyorum.
-- 🎨 **Retro/Pixel Art** temalı bir portföy web sitesi tasarlıyorum.
-- ⚡ **Hobilerim:** Bir çok farklı türde oyun oynamak (HOI4,stardew Valley, Hollow Kngiht, witcher3 vb.),  oyun mekanikleri analizi.
+  <a href="mailto:SENIN_MAIL_ADRESIN">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="SENIN_WEB_SITEN_LINKI">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
+  </a>
+</p>
 
 ---
 
-### 🛠 Teknoloji ve Araçlar (Arsenal)
+Samsun'dan sevgiler! Ondokuz Mayıs Üniversitesi'nde Bilgisayar Programcılığı okuyan tutkulu bir geliştiriciyim. Kendi oyun dünyalarımı inşa etmeyi, piksellere hayat vermeyi ve web teknolojilerinde yeni şeyler üretmeyi seviyorum. Yaptığım her işte en temiz ve başarılı sonuçları almak için canımı dişime takarak çalışıyorum.
 
-<div align="center">
+Şu sıralar **GravenAbyss** adını verdiğim kendi bağımsız oyun şirketimi kurma serüvenindeyim. (Maskotumuz Panpaw 🐼 da arkada bambu yiyerek bana destek oluyor!)
 
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+### 👨‍💻 Neler Yapıyorum?
 
-</div>
+* 🔭 Hayalimdeki **2D platform oyunu** üzerinde çalışıyorum (Unity & C#).
+* 🎨 Oyunlarımın görselleri için grafik tabletimle **Aseprite** üzerinden karakterler ve animasyonlar tasarlıyorum.
+* 💻 Web tarafında HTML, CSS, JavaScript ve PHP ile projeler geliştiriyorum.
+* 🛠️ Geliştirme süreçlerimi **Windows** üzerinde **VS Code** kullanarak yürütüyorum.
+
+### 🛠️ Teknolojiler & Araçlar
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,unity,js,php,html,css,vscode,git,windows" alt="Yetenekler"/>
+  </a>
+</p>
+
+### 📊 GitHub İstatistiklerim
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SENIN_GITHUB_KULLANICI_ADIN&show_icons=true&theme=tokyonight" alt="GitHub İstatistikleri" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SENIN_GITHUB_KULLANICI_ADIN&layout=compact&theme=tokyonight" alt="En Çok Kullanılan Diller" />
+</p>
 
 ---
-
-### 📊 GitHub İstatistikleri
-
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kkonasoglu&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" height="160" alt="stats graph" />
-  
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kkonasoglu&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" height="160" alt="languages graph" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kkonasoglu&label=Profil+Ziyaretçisi&color=239120&style=flat" alt="profil sayacı" />
+  <em>"Çalıştığı alanda en iyisi olmak için durmadan üreten bir Türk genci."</em>
 </div>
