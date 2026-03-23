@@ -7,13 +7,13 @@
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SENIN_LINKEDIN_KULLANICI_ADIN/">
+  <a href="https://www.linkedin.com/in/kürşat-konaşoğlu-79052538a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:SENIN_MAIL_ADRESIN">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="SENIN_WEB_SITEN_LINKI">
+  <a href="https://kkonasoglu.github.io/BIO/">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
   </a>
 </p>
