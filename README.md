@@ -46,6 +46,10 @@ Samsun'dan sevgiler! Ondokuz Mayıs Üniversitesi'nde Bilgisayar Programcılığ
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkonasoglu&layout=compact&theme=tokyonight" alt="En Çok Kullanılan Diller" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kkonasoglu&label=Profil+Ziyaret%C3%A7isi&color=36BCF7&style=for-the-badge" alt="Ziyaretçi Sayacı" />
+</p>
+
 ---
 <div align="center">
   <em>"Çalıştığı alanda en iyisi olmak için durmadan üreten bir Türk genci."</em>
