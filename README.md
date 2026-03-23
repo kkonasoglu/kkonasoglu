@@ -42,8 +42,8 @@ Samsun'dan sevgiler! Ondokuz Mayıs Üniversitesi'nde Bilgisayar Programcılığ
 ### 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SENIN_GITHUB_KULLANICI_ADIN&show_icons=true&theme=tokyonight" alt="GitHub İstatistikleri" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SENIN_GITHUB_KULLANICI_ADIN&layout=compact&theme=tokyonight" alt="En Çok Kullanılan Diller" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kkonasoglu&show_icons=true&theme=tokyonight" alt="GitHub İstatistikleri" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkonasoglu&layout=compact&theme=tokyonight" alt="En Çok Kullanılan Diller" />
 </p>
 
 ---
