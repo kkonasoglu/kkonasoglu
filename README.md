@@ -28,14 +28,14 @@ Samsun'dan sevgiler! Ondokuz Mayıs Üniversitesi'nde Bilgisayar Programcılığ
 
 * 🔭 Hayalimdeki **2D platform oyunu** üzerinde çalışıyorum (Unity & C#).
 * 🎨 Oyunlarımın görselleri için grafik tabletimle **Aseprite** üzerinden karakterler ve animasyonlar tasarlıyorum.
-* 💻 Web tarafında HTML, CSS, JavaScript ve PHP ile projeler geliştiriyorum.
+* 💻 Web tarafında HTML, CSS ve JavaScript ile projeler geliştiriyorum.
 * 🛠️ Geliştirme süreçlerimi **Windows** üzerinde **VS Code** kullanarak yürütüyorum.
 
 ### 🛠️ Teknolojiler & Araçlar
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,unity,js,php,html,css,vscode,git,windows" alt="Yetenekler"/>
+    <img src="https://skillicons.dev/icons?i=cs,unity,java,js,html,css,vscode,git,windows" alt="Yetenekler"/>
   </a>
 </p>
 
