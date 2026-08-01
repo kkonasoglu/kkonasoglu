@@ -91,13 +91,6 @@
 
 ---
 
-### 🏆 GAME JAMS & MILESTONES
-
-- 🏆 **Global Game Jam** — *Best Gameplay Mechanics Award*
-- 🥇 **Ludum Dare** — *Top 5% in Innovation Category*
-- 🕹️ **Itch.io Community Jam** — *Community Favorite Pick*
-
----
 
 ### 📊 DEVELOPER TELEMETRY
 
