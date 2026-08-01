@@ -79,17 +79,15 @@
 ```
 
 #### 🕹️ Game Engines & Core Languages
-![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=E50914)
 ![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=E50914)
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-000000?style=for-the-badge&logo=unrealengine&logoColor=E50914)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=E50914)
-![Godot](https://img.shields.io/badge/Godot-000000?style=for-the-badge&logo=godotengine&logoColor=E50914)
+
 
 #### 📐 Graphics, Physics & Tools
 ![HLSL](https://img.shields.io/badge/HLSL_/_GLSL-000000?style=for-the-badge&logo=opengl&logoColor=E50914)
 ![DirectX](https://img.shields.io/badge/DirectX_/_Vulkan-000000?style=for-the-badge&logo=vulkan&logoColor=E50914)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=E50914)
-![Blender](https://img.shields.io/badge/Blender-000000?style=for-the-badge&logo=blender&logoColor=E50914)
+![Aseprite](https://img.shields.io/badge/Aseprite-000000?style=for-the-badge&logo=blender&logoColor=E50914)
 
 ---
 
